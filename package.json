@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-techno-babel",
+  "version": "1.0.0",
+  "description": "Relaxes linting rules that warn with babel-preset-techno-babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3dc"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "techno-babel"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "author": "@d3dc",
+  "license": "ISC"
+}
