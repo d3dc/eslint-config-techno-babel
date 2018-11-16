@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-techno-babel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Relaxes linting rules that warn with babel-preset-techno-babel",
   "main": "index.js",
   "scripts": {
